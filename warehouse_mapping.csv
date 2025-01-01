@@ -1,0 +1,7 @@
+warehouse_code,neighbor_code,travel_cost
+A,B,13
+B,A,13
+B,C,24
+C,B,24
+C,D,26
+D,C,26
